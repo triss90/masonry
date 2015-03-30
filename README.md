@@ -1,2 +1,2 @@
 # Masonry
-Masonry experiment
+Responsive Masonry experiment
