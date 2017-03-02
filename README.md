@@ -23,3 +23,7 @@ A lightweight, responsive Masonry grid
 	</div>
 </div>
 ```
+
+## Example
+Inline-style: 
+![Responsive Masonry Grid Example](https://github.com/triss90/masonry/blob/master/example.png)
