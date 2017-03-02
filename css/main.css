@@ -5,7 +5,7 @@
     margin: 3em auto;
 }
 
-.masonry {
+.masonry-grid {
     margin: 1.5em 0;
     padding: 0;
     -moz-column-gap: 1.5em;
@@ -14,7 +14,7 @@
     font-size: .85em;
 }
 
-.item {
+.masonry-item {
     display: inline-block;
     padding: 1em;
     margin: 0 0 1.5em;
@@ -61,6 +61,9 @@
         width: 1260px;
     }
 }
+
+
+
 
 /* Other */
 img {
